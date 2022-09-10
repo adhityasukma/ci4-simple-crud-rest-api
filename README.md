@@ -33,6 +33,7 @@ php spark migrate
 php spark serve
 ```
 
+# Untuk menggunakan Simple CRUD Rest API, buka aplikasi Postman
 ## Postman
 ### Get all data Coupon
 
