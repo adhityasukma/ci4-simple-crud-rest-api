@@ -33,7 +33,9 @@ php spark migrate
 php spark serve
 ```
 
-## Untuk menggunakan Simple CRUD Rest API, buka aplikasi Postman
+## Untuk menggunakan Simple CRUD Rest API kemudian buka aplikasi Postman
+Ada beberapa Method yang bisa digunakan di postman diantaranya sebagai berikut:
+
 ### Get all data Coupon
 
 - Response Method: **GET**
