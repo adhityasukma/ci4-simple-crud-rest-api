@@ -24,6 +24,7 @@ php spark serve
 ### Get all data Coupon
 Response Method: **Get**
 Request URL: http://localhost:8080/coupon
+
 Contoh response result:
 ```
 [
