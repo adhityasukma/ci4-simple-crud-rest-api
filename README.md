@@ -14,7 +14,7 @@ Field table:
 
 ## Konfigurasi file .env
 Buka folder *ci4-simple-crud-rest-api* kemudian edit file **.env** mengunakan editor seperti Visual Studio Code (VSCode) atau Sublime Text.
-Lalu cari baris _DATABASE_ kemudian edit baris berikut disesuaikan dengan konfigurasi Database / phpmyadmin punya kalian seperti: hostname, database, username dan password.
+Lalu cari baris _DATABASE_ kemudian edit baris berikut disesuaikan dengan konfigurasi database / phpmyadmin punya kalian seperti: hostname, database, username dan password.
 ```
 database.default.hostname = localhost
 database.default.database = ci4_simple_crud_api
