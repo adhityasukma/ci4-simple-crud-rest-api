@@ -81,9 +81,9 @@ Contoh JSON Object
     "code_coupon":"Kupon10rb"
 }
 ```
-Contoh response result:
+Contoh response result {last_insert_id}:
 ```
-{last_insert_id} contoh: 4
+contoh: 4
 ```
 Contoh response result jika fail:
 ```
