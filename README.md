@@ -14,6 +14,24 @@ Field table:
 
 ## Instalasi & Cara gunakan App
 Buka terminal / gitbash / Command Prompt (CMD) lalu jalankan perintah berikut:
-1. composer install
-2. php spark migrate
-3. php spark serve
+```
+composer install
+php spark migrate
+php spark serve
+```
+
+## Postman
+### Get all data Coupon
+Response Method: **Get**
+Request URL: http://localhost:8080/coupon
+Contoh response result:
+```
+[
+    {
+        "id": "3",
+        "title": "Diskon 10%",
+        "code_coupon": "DiskonPertama"
+    }
+]
+
+```
