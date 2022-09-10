@@ -22,6 +22,7 @@ php spark serve
 
 ## Postman
 ### Get all data Coupon
+
 Response Method: **Get**
 Request URL: http://localhost:8080/coupon
 
