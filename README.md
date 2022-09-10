@@ -12,14 +12,7 @@ Field table:
 2. Install Composer https://getcomposer.org/download/
 3. Install Postman https://www.postman.com/downloads/
 
-## Instalasi
-Buka folder * *ci4-simple-crud-rest-api* * lalu jalankan terminal / gitbash / Command Prompt (CMD) kemudian jalankan perintah berikut:
-```
-composer update
-php spark migrate
-php spark serve
-```
-## Cara gunakan App
+## Konfigurasi file .env
 Buka folder * *ci4-simple-crud-rest-api* * kemudian edit file **.env** mengunakan editor seperti Visual Studio Code (VSCode) atau Sublime Text.
 Lalu cari baris _ _DATABASE_ _ kemudian edit baris berikut disesuaikan dengan konfigurasi Database / phpmyadmin punya kalian seperti: hostname, database, username dan password.
 ```
@@ -30,6 +23,14 @@ database.default.password =
 database.default.DBDriver = MySQLi
 database.default.DBPrefix =
 database.default.port = 3306
+```
+
+## Instalasi & Cara gunakan App
+Buka folder * *ci4-simple-crud-rest-api* * lalu jalankan terminal / gitbash / Command Prompt (CMD) kemudian jalankan perintah berikut:
+```
+composer update
+php spark migrate
+php spark serve
 ```
 
 ## Postman
