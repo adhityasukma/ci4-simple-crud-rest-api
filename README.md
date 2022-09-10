@@ -23,8 +23,8 @@ php spark serve
 ## Postman
 ### Get all data Coupon
 
-Response Method: **Get**
-Request URL: http://localhost:8080/coupon
+- Response Method: **Get**
+- Request URL: http://localhost:8080/coupon
 
 Contoh response result:
 ```
@@ -36,4 +36,14 @@ Contoh response result:
     }
 ]
 
+```
+Contoh response result jika data tidak ada:
+```
+{
+    "status": 404,
+    "error": 404,
+    "messages": {
+        "error": "Data tidak ditemukan"
+    }
+}
 ```
