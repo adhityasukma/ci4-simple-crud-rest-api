@@ -12,3 +12,8 @@ Field table:
 2. Install Composer https://getcomposer.org/download/
 3. Install Postman https://www.postman.com/downloads/
 
+## Instalasi & Cara gunakan App
+Buka terminal / gitbash / Command Prompt (CMD) lalu jalankan perintah berikut:
+1. composer install
+2. php spark migrate
+3. php spark serve
