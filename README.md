@@ -25,6 +25,9 @@ database.default.DBPrefix =
 database.default.port = 3306
 ```
 
+## Database
+Buka phpmyadmin kemudian buat database baru, contoh database yaitu ci4_simple_crud_api
+
 ## Instalasi & Cara gunakan App
 Buka folder *ci4-simple-crud-rest-api* lalu jalankan terminal / gitbash / Command Prompt (CMD) kemudian jalankan perintah berikut:
 ```
