@@ -1,5 +1,5 @@
 # Simple CRUD Rest API
-Simple CRUD Rest API using Codeigniter 4 adalah hanya proses backend untuk melakukan Create, Read, Update dan Delete via Postman aplikasi.
+Simple CRUD Rest API using Codeigniter 4 yaitu hanya melakukan proses backend untuk menjalankan perintah **Create, Read, Update dan Delete** via aplikasi Postman.
 
 ## Table: coupons
 Field table:
