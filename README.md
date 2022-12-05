@@ -89,7 +89,7 @@ Contoh response result jika data tidak ada:
 ```
 ### Create data Coupon JSON Object
 - Response Method: **POST**
-- Request URL: http://localhost:8080/coupon/3
+- Request URL: http://localhost:8080/coupon
 - Body >> raw type JSON
 
 Contoh JSON Object
