@@ -66,6 +66,7 @@ Contoh response result jika data tidak ada:
 ```
 
 ### Get data Coupon by id
+Misalnya **ID** Coupon adalah **3**
 - Response Method: **GET**
 - Request URL: http://localhost:8080/coupon/3
 
@@ -115,6 +116,7 @@ Contoh response result jika fail:
 ```
 
 ### Update data Coupon JSON Object
+Misalnya **ID** Coupon adalah **3**
 - Response Method: **POST**
 - Request URL: http://localhost:8080/coupon/3
 - Body >> raw type JSON
@@ -152,6 +154,7 @@ Contoh response result jika data tidak ditemukan:
 ```
 
 ### Delete data Coupon
+Misalnya **ID** Coupon adalah **4**
 - Response Method: DELETE
 - Request URL: http://localhost:8080/coupon/4
 
